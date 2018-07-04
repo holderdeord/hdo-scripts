@@ -18,7 +18,8 @@ client
                                     '2013-2014',
                                     '2014-2015',
                                     '2015-2016',
-                                    '2016-2017'
+                                    '2016-2017',
+                                    '2017-2018'
                                 ]
                             }
                         }
@@ -29,7 +30,7 @@ client
                 representatives: {
                     terms: {
                         field: 'name',
-                        size: 1000 // maks antall representanter
+                        size: 2000 // maks antall representanter
                     }
                 }
             },
